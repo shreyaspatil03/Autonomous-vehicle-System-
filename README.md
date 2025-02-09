@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autonomous Vehicle System
 
 This project implements an **Autonomous Vehicle System** using a **Raspberry Pi 4B**, **Arduino Mega**, **ultrasonic sensors**, and a **camera**. The system integrates several key functionalities to enable autonomous navigation, including **speed control**, **object tracking**, **obstacle avoidance**, **distance measurement**, and **lane detection**. 
@@ -16,3 +17,6 @@ This project implements an **Autonomous Vehicle System** using a **Raspberry Pi 
 5. **Lane Detection**: The system detects lane markings on the road and adjusts the vehicle’s position within the lane to stay on course.
 6. **Autonomous Navigation**: The vehicle can move autonomously by processing real-time data from sensors and camera to navigate the environment.# Autonomous Vehicle System
  
+=======
+# Autonomous-vehicle-System-
+>>>>>>> f8f51308590938f092c2a41e2c37aac6bf712f19
